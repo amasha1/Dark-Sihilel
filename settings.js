@@ -19,33 +19,33 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94704101989']
-global.premium = ['94704101989']
-global.ownernomer = '94704101989'
-global.ownername = '❤️S_I_H_I_L_E_L❤️'
-global.botname = '❤️𝙷𝙸𝚁𝚄𝚄_𝚀𝚄𝙴𝙴𝙽_𝙱𝙾𝚃❤️'
-global.footer = '©Sihilel.'
+global.owner = ['94701651987']
+global.premium = ['94729285340']
+global.ownernomer = '94729285340'
+global.ownername = '❤️ 𝙰𝙼𝙰𝚂𝙷𝙰 ❤️'
+global.botname = '❤️_𝘛𝚁𝘈𝙲𝘒 𝙾𝘜𝚃 _❤️'
+global.footer = '©𝙰𝙼𝙰𝚂𝙷𝙰 🐼👻'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://chat.whatsapp.com/JJPj637jjvMFrMYqxVPTDa'
-global.myweb = '\nhttps://sites.google.com/view/hiruu-queen-bot/home\n\n🔥༺HIRUU༒QUEEN༻🔥'
-global.packname = '❤️HIRUU-QUEEN❤️'
-global.author = '❤️S_I_H_I_L_E_L❤️'
+global.sc = 'https://chat.whatsapp.com/KwhBPTk1yvWLrpmGcgdA2h'
+global.myweb = 'https://www.facebook.com/profile.php?id=100056644392099'
+global.packname = '❤️𝙰𝙼𝙰𝚂𝙷𝙰'𝚜 𝙱𝙾𝚃❤️'
+global.author = '❤️𝙰_𝙼_𝙰_𝚂_𝙷_𝙰❤️'
 global.sessionName = 'session'
 global.hiruu = 'ඉතිම් කෝමද 😜😎'
 global.prefa = ['','!','.',',','#','?','%','&','sh','🦄','🕊️','🐤']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done🔥💯\n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
-    admin: 'ඇඩ්මින්ලට විතරයි මේක පුලුවන් ළමයෝ 🌝\n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
-    botAdmin: 'ඇඩ්මින් දියන්කෝ මුලින් 😒\n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
-    owner: 'Owner ට විතරයි ළමයෝ ඕක පුලුවන් 🙏 \n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
-    group: 'group වල විතරයි ඕක😒\n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
-    private: 'inbox විතරයි පුලුවන්🌝\n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
-    bot: 'මේක මට විතරයි පුලුවන්😌👍 ඔයා පාඩුවේ ඉන්න 😒\n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
-    wait: 'චුට්ටක් ඉන්න බබා 🌸🙏\n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
-    error: 'Error! Maybe Api Key Is Expired🤔!\n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours\n\n🔥༺HIRUU༒QUEEN༻🔥\n\n♥️S+H♥️',
+    success: '𝙳𝙾𝙽𝙴 🐼🥀',
+    admin: 'ඇඩ්මින්ලට විතරයි මේක පුලුවන් බියුටිපුල් ළමයෝ 🌚\n\n𝙰𝙼𝙰𝚂𝙷𝙰 🐼🥀',
+    botAdmin: 'ඇට්මින් දෙන්න ළමයො මුලින් 😒\n\n𝙰𝙼𝙰𝚂𝙷𝙰 🐼🥀',
+    owner: '𝙰𝙼𝙰𝚂𝙷𝙰ට විතරයි ළමයෝ ඕක පුලුවන් 😂☝ \n\n𝙰𝙼𝙰𝚂𝙷𝙰 🐼🥀',
+    group: 'group වල විතරයි ඕක තියෙන්නෙ බියුටිපුල් ළමයෝ 😒\n\n𝙰𝙼𝙰𝚂𝙷𝙰 🐼🥀',
+    private: 'inbox විතරයි පුලුවන් බියුටිපුල් ළමයෝ 🌝\n\n𝙰𝙼𝚂𝙷𝙰 🐼🥀',
+    bot: 'මේක මට විතරයි පුලුවන්😌👍 ඔයා පාඩුවේ ඉන්න 😒\n\n𝙰𝙼𝙰𝚂𝙷𝙰 🐼🥀',
+    wait: 'චුට්ටක් ඉන්න බියුටිපුල් ළමයෝ 😌🤭\n\n𝙰𝙼𝙰𝚂𝙷𝙰 🐼🥀',
+    error: 'Error! Maybe Api Key Is Expired🤔!\n\n𝙰𝙼𝙰𝚂𝙷𝙰 🐼🥀',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours\n\n_𝘛𝚁𝘈𝙲𝘒 𝙾𝘜𝚃 _ °👅 🥵💤',
 }
     global.limitawal = {
     premium: "Infinity",
